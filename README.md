@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 [![twitter](https://img.shields.io/twitter/follow/nipeno?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/nipeno)
-
 [![wakatime](https://wakatime.com/badge/user/401d4c64-86b1-47c5-9952-c429885246f3.svg)](https://wakatime.com/@401d4c64-86b1-47c5-9952-c429885246f3)
 
 <!--
