@@ -2,7 +2,6 @@
 
 [![twitter](https://img.shields.io/twitter/follow/nipeno?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/nipeno)
 [![github](https://img.shields.io/github/followers/nipeno?logo=github&style=plastic)](https://github.com/nipeno?tab=followers)
-[![wakatime](https://wakatime.com/badge/user/401d4c64-86b1-47c5-9952-c429885246f3.svg)](https://wakatime.com/@401d4c64-86b1-47c5-9952-c429885246f3)
 
 - 🔭 I’m currently working on personal / non-public projects.
 - 💬 Ask me about literally anything
