@@ -8,7 +8,7 @@
 - Custom Framework for the FiveM platform: Full RP Framework with a focus on expansion.
 - Battlebit Blender Scripts: Used to import and convert maps and models from the BattleBit Remastered game.
 
-- ### Where to find me
+### Where to find me
 - [Twitter](https://twitter.com/nipeno)
 - Email: nipenobusiness (at) gmail [Business inquiries only!] <3
 
