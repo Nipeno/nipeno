@@ -1,16 +1,20 @@
-## Hi there 👋
+# Nico ("Nipeno")
 
-<!--
-**Nipeno/nipeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer with ~10+ years of tinkering and side projects, now taking it more seriously and building in a more structured way.  
+Currently focused on web apps, learning backend fundamentals, and I’m also into game modding and occasional 3D work.
 
-Here are some ideas to get you started:
+## What I'm learning (Bachelor coursework)
+- Programming + CS fundamentals (e.g., algorithms & data structures)
+- Embedded / microcontroller basics and real-time systems
+- Databases and data-driven applications
+- Signals/systems, measurement & sensors, and control basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do outside uni
+- Web apps (currently)
+- Backend basics (next up)
+- Game modding / tooling
+- 3D modeling (hobby)
+
+## Contact
+- X (Twitter): https://x.com/Nipeno
+- Email: nipenobusiness@gmail.com
